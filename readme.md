@@ -15,5 +15,9 @@ Mini FastAPI backend for expense tracking and analytics.
 {
     "amount" : 120,
     "category" : "food",
-    "user" : "John
+    "user" : "John" 
 }
+```
+
+## Required Packages
+Check `requirements.txt` to install dependencies.
