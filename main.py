@@ -58,3 +58,11 @@ def delete_expense(index: int):
         "status": "deleted",
         "expense": deleted
     }
+    
+@app.get("/summary")
+def get_summary():
+    result = {}
+    for t in expenses:
+        cat = t["category"]
+        result[cat] = result.get(cat, 0) + t["amount"]
+    return result

@@ -25,3 +25,4 @@ def update_expenses(
     """
     with open(filepath, "w") as f:
         json.dump(expenses, f, indent = 4)
+        
