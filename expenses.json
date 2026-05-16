@@ -1,1 +1,87 @@
-[{"amount": 10, "category": "food", "user": "John"}, {"amount": 15, "category": "transport", "user": "John"}, {"amount": 3, "category": "drinks", "user": "John"}, {"amount": 20, "category": "food", "user": "Yuri"}, {"amount": 25, "category": "transport", "user": "Yuri"}, {"amount": 4, "category": "drinks", "user": "Yuri"}, {"amount": 30, "category": "food", "user": "Harry"}, {"amount": 35, "category": "transport", "user": "Harry"}, {"amount": 5, "category": "drinks", "user": "Harry"}, {"amount": 40, "category": "food", "user": "John"}, {"amount": 45, "category": "transport", "user": "John"}, {"amount": 6, "category": "drinks", "user": "John"}, {"amount": 50, "category": "food", "user": "Yuri"}, {"amount": 55, "category": "transport", "user": "Yuri"}, {"amount": 7, "category": "drinks", "user": "Yuri"}]
+[
+    {
+        "amount": 10,
+        "category": "food",
+        "user": "John"
+    },
+    {
+        "amount": 15,
+        "category": "transport",
+        "user": "John"
+    },
+    {
+        "amount": 3,
+        "category": "drinks",
+        "user": "John"
+    },
+    {
+        "amount": 20,
+        "category": "food",
+        "user": "Yuri"
+    },
+    {
+        "amount": 25,
+        "category": "transport",
+        "user": "Yuri"
+    },
+    {
+        "amount": 4,
+        "category": "drinks",
+        "user": "Yuri"
+    },
+    {
+        "amount": 30,
+        "category": "food",
+        "user": "Harry"
+    },
+    {
+        "amount": 35,
+        "category": "transport",
+        "user": "Harry"
+    },
+    {
+        "amount": 5,
+        "category": "drinks",
+        "user": "Harry"
+    },
+    {
+        "amount": 40,
+        "category": "food",
+        "user": "John"
+    },
+    {
+        "amount": 45,
+        "category": "transport",
+        "user": "John"
+    },
+    {
+        "amount": 6,
+        "category": "drinks",
+        "user": "John"
+    },
+    {
+        "amount": 50,
+        "category": "food",
+        "user": "Yuri"
+    },
+    {
+        "amount": 55,
+        "category": "transport",
+        "user": "Yuri"
+    },
+    {
+        "amount": 7,
+        "category": "drinks",
+        "user": "Yuri"
+    },
+    {
+        "amount": 99,
+        "category": "miscallenous",
+        "user": "fadi"
+    },
+    {
+        "amount": 1,
+        "category": "other",
+        "user": "fadi"
+    }
+]
